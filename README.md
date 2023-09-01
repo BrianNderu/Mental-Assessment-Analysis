@@ -28,4 +28,5 @@ There is a high correlation between Anxiety and Depression thus a cause and effe
 ### Conclusion
 These Visuals provide an insight on how programs can be tailor made for each school and further identify students that need urgent help.
 
-YRead the Data Report [here]("Data Analysis Report.pdf")
+Read the Data Report [here] ("Data Analysis Report.pdf")
+The notebook analysis is in the repo
