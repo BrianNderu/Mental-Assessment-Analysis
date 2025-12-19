@@ -10,19 +10,6 @@ The Objective of this Analysis is to find meaningful trends among a Questionnare
 The Data is from shamiri institute and has 633 rows and 33 columns
 
 ### Top Insights
-#### Correlation between Anxiety and Depression
-<img src="Images\Correlation.png"/>
-
-There is a high correlation between Anxiety and Depression thus a cause and effect relationship between the two
-
-#### Identifying Individuals that have high depression score
-<img src="Images\Individual with high PHQ.png"/>
-
-#### Identifying Individuals with high anxiety score
-<img src="Images\Individual with high GAD Score.png"/>
-
-#### Identifying School with high depression index
-<img src="Images\School with high PHQ Score.png"/>
 
 
 ### Conclusion
